@@ -1,0 +1,13 @@
+prefix=E:/GenAI/Dissertation project/disser/Library
+exec_prefix=E:/GenAI/Dissertation project/disser/Library
+libdir=E:/GenAI/Dissertation project/disser/Library/lib
+sharedlibdir=E:/GenAI/Dissertation project/disser/Library/lib
+includedir=E:/GenAI/Dissertation project/disser/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
