@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/GenAI/Dissertation%20project/mlruns/0/2098b7df99c147ad8cdc2838a7a8a86e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2098b7df99c147ad8cdc2838a7a8a86e
+run_name: luminous-bat-256
+run_uuid: 2098b7df99c147ad8cdc2838a7a8a86e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723596794713
+status: 1
+tags: []
+user_id: shaik
